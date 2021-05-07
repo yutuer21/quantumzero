@@ -2,7 +2,7 @@
 
 # Software requirements
 
-# OS Requirements
+## OS Requirements
 This package is supported for macOS and Linux. The package has been tested on the following systems:
 
 macOS: Mojave (10.14.1)
