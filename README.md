@@ -8,7 +8,12 @@ This package is supported for macOS and Linux. The package has been tested on th
 macOS: Mojave (10.14.1)
 Linux: Ubuntu 16.04
 
+## Python Dependencies
+
 
 # Installation Guide
 
 pip3 install qutip
+
+# Demo
+## outputs
