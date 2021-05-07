@@ -1,3 +1,5 @@
 # quantumzero
 
-ddddddd
+Installation Guide:
+
+pip3 install qutip
