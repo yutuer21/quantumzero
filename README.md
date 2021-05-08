@@ -12,11 +12,16 @@ macOS: Mojave (10.14.1)
 windows 10
 
 ## Python Dependencies
-quantumzero mainly depends on the Python scientific stack .
+quantumzero mainly depends on the Python scientific stack.
+
 numpy
+
 math
+
 scipy
+
 matplotlib
+
 qutip
 
 
