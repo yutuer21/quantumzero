@@ -1,6 +1,6 @@
 # Overview
 
-quantumzero aims to automate the design of annealing schedules in a hybrid quantum-classical framework. We study both MCTS and QZero algorithms's performance in discovering effective annealing schedules even when the annealing time is short for the 3-SAT examples.
+Quantumzero aims to automate the design of annealing schedules in a hybrid quantum-classical framework. We study both MCTS and QZero algorithms's performance in discovering effective annealing schedules even when the annealing time is short for the 3-SAT examples.
 
 # Software requirements
 
